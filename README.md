@@ -5,12 +5,12 @@ Welcome to the Data Science Python Starter Kit! This repository is designed to h
 
 📌 What's Inside?
 
-Python Basics – Syntax, loops, functions, OOP concepts
+Complete Python including OOPS   
 
-NumPy – Arrays, mathematical operations, and broadcasting
+NumPy 
 
-Pandas – Data manipulation and analysis
+Pandas 
 
-Matplotlib – Data visualization techniques
+Matplotlib 
 
-Sample Datasets – Real-world datasets for hands-on learning
+Sample Datasets 
